@@ -9,7 +9,7 @@
 
 ## 🧠 Summary
 
-I'm a Java Developer with over 4 years of experience in full-cycle software development — from idea to production. My focus is on building scalable and resilient systems, with deep involvement in microservice architecture, database optimization, and secure data handling.
+I'm a Java Developer with over 4 years of experience in full-cycle software development — from idea to production. My focus is on building scalable and resilient systems, with deep involvement in microservice architecture, database optimization, mobile applications development and secure data handling.
 
 I’ve worked in both greenfield and legacy environments, primarily in the medical and banking sectors. I’m proactive, communicative, and ready to both lead and support. I value clarity, efficiency, and collaboration in every project I join.
 
@@ -18,7 +18,7 @@ I’ve worked in both greenfield and legacy environments, primarily in the medic
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks:**  
-Java, Spring Framework, Hibernate
+Java, Kotlin, JavaScript, Spring Framework, Camunda BPM, Hibernate
 
 **Testing**  
 JUnit 5, Mockito, Testcontainers
@@ -39,8 +39,19 @@ Git, Jenkins, Keycloak, Confluence, Jira, JSON, XML
 
 ## 🧑‍💻 Experience
 
+### 💼 HUMANS.uz — *Software Developer*  
+**June 2025 – Present | 1+ year**
+
+-	Improved document scanning and preprocessing pipeline in the Kotlin mobile app for SIM card point-of-sale agents, reducing manual corrections by 25%.
+-	Optimized client–backend interactions, decreasing contract processing latency and improving in-store customer experience.
+-	Contributed to the evolution of a Camunda BPMN-driven core backend service, refining business processes for contract generation and verification, reducing failed process instances by 22%.
+-	Reduced technical debt by upgrading key dependencies across mobile and backend services, eliminating recurring crash sources. 
+**Tech:** Java, Kotlin, Spring Boot, Camunda BPM, PostgreSQL, REST, RabbitMQ, Docker, Kubernetes.
+
+---
+
 ### 💼 Armeconombank — *Java Developer*  
-**Dec 2022 – Present | 2.5+ years**
+**Dec 2022 – May 2025 | 2.6 years**
 
 - Migrated legacy banking systems to microservices, improving fault tolerance and scalability.  
 - Built a loan automation service from scratch, cutting processing time by 40%.  
